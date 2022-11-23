@@ -11,4 +11,7 @@ library by running the following command in your terminal `pip3 install pyautogu
 
 You can test this program using your own emulator and a legal copy of Super Mario Bros on the NES.
 
+On your emulator, make sure to set the directional buttons as the arrow buttons on your keyboard, 'Start' 
+as the enter button, and 'A' and 'B' 'Z' and 'X' respectively.
+
 This README will be frequntly updated as progress on the project is made
