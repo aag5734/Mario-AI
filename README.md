@@ -1,6 +1,4 @@
 # Mario-AI
-This is the result of an 2AM thought manifesting. 
-
 As the name suggests, this is an AI program that learns how to beat world 1-1 of Super Mario Bros for the NES.
 
 # Details
